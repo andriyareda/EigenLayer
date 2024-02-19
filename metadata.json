@@ -1,7 +1,7 @@
 {
-"name": "m\"><img>mn",
+"name": "mmn",
 "website": "data:text/html;base64,PHNjcmlwdD5hbGVydCgiSGVsbG8iKTs8L3NjcmlwdD4=",
-"description": "personal\"><img>",
+"description": "personal",
 "logo": "https://gist.githubusercontent.com/rudSarkar/76f1ce7a65c356a5cd71d058ab76a344/raw/cd34a78c963a9af5170a23b5df239b2b8eda6932/xss-image.svg",
-"twitter": "https://twitter.com/mmn"
+"twitter": "https://twitter.com\"><img>/mmn"
 }
