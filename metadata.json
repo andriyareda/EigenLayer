@@ -1,6 +1,6 @@
 {
 "name": "mman",
-"website": "http://daniel-tomescu.com/hackerone/landpage.php",
+"website": "data:text/html;base64,PGgxPlhTUyBIVE1MIEluamVjdGlvbiBEZW1vPC9oMT48cD5UaGlzIGlzIGEgZGVtb25zdHJhdGlvbiBvZiBIVE1MIGluamVjdGlvbi48L3A+",
 "description": "personal",
 "logo": "https://gist.githubusercontent.com/rudSarkar/76f1ce7a65c356a5cd71d058ab76a344/raw/cd34a78c963a9af5170a23b5df239b2b8eda6932/xss-image.svg",
 "twitter": "https://twitter.com/mmn"
